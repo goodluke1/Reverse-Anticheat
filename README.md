@@ -3,11 +3,11 @@
 
   Our prices start from 10 euro
 
-  Over 103 Detections
+  Over 75 Detections
 
 🕵️   We block functions from Susano, Hx, Tz, Eulen
 
-    Over 69 Customers Since September
+    Over 103 Customers Since September
 
 🤖  We block Aim Bot from all Hacks
 
