@@ -3,7 +3,7 @@
 
   Our prices start from 10 euro
 
-  Over 53 Detections
+  Over 103 Detections
 
 🕵️   We block functions from Susano, Hx, Tz, Eulen
 
